@@ -203,9 +203,8 @@ Player progress is stored locally using browser LocalStorage.
 
 
 
-#Play the game
-clicker-idle.netlify.app
-
+#Play the game:
+https://clicker-idle.netlify.app/
 
 # Recommended Browser
 
@@ -233,7 +232,10 @@ clicker-idle.netlify.app
 
 # Screenshots:
 
+<img width="1366" height="768" alt="ss22" src="https://github.com/user-attachments/assets/5dd06b31-7c7f-4a37-bdaf-120121435eaf" />
 
+
+<img width="1366" height="768" alt="ss1" src="https://github.com/user-attachments/assets/dabe9f1c-3500-4525-8ce4-6b3bbbe4f7df" />
 
 
 
